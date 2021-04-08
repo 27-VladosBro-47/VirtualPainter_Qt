@@ -25,10 +25,6 @@ public:
     ColorDetector *colorDetector = nullptr;
     Painter *painter = nullptr;
 
-
-    //bool isActiveColorDetector = false;
-    //bool isActiveVirtualPainter = false;
-
     void setDefaultSettings();
 
 signals:
